@@ -3,7 +3,7 @@ make RecyclerView.Adapter more convenient
 
 
 # Usage
-**Only One Item View Type**
+**One Item View Type**
 ```
 mQuickRecyclerAdapter = new QuickRecyclerAdapter<DataModel>(this, R.layout.item, mDataModelList) {
     
@@ -20,8 +20,8 @@ mQuickRecyclerMultiAdapter = new QuickRecyclerMultiAdapter<DataModel>(this, mDat
 
     @Override
     protected void setItemViewType() {
-        // add item type type and its layout
-        addItemType(1, R.layout.list_item);
+        // add item view type and its layout
+        addItemType(1, R.layout.list_item_1);
         addItemType(2, R.layout.list_item_2);
     }
 
