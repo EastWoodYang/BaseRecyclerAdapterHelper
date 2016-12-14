@@ -2,6 +2,23 @@
 make RecyclerView.Adapter more convenient
 
 
+# Get it
+available on Maven Central
+```
+    <dependency>
+      <groupId>com.ycdyng.android</groupId>
+      <artifactId>base-recycler-adapter-helper</artifactId>
+      <version>1.0.0</version>
+      <type>pom</type>
+    </dependency>
+```
+
+or 
+
+```
+    compile 'com.ycdyng.android:base-recycler-adapter-helper:1.0.0'
+```
+
 # Usage
 **One Item View Type**
 ```

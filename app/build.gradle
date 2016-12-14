@@ -19,9 +19,7 @@ android {
 }
 
 dependencies {
-
     compile 'com.android.support:appcompat-v7:25.0.1'
     compile 'com.android.support:recyclerview-v7:25.0.1'
-
-    compile project(path: ':BaseRecyclerAdapterHelper')
+    compile 'com.ycdyng.android:base-recycler-adapter-helper:1.0.0'
 }

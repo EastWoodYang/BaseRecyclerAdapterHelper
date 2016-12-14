@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="base-recycler-adapter-helper-1.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ycdyng.android/base-recycler-adapter-helper/1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.ycdyng.android/base-recycler-adapter-helper/1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Android/gradle-3.0/caches/modules-2/files-2.1/com.ycdyng.android/base-recycler-adapter-helper/1.0.0/3d66ee8199ca67eb24f5c82765b31681e560321a/base-recycler-adapter-helper-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

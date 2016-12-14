@@ -1,10 +1,10 @@
 apply plugin: 'com.android.library'
 
-ext {
-    PUBLISH_GROUP_ID = 'com.ycdyng.android'
-    PUBLISH_ARTIFACT_ID = 'baserecycleradapterhelper'
-    PUBLISH_VERSION = '1.0.0'
-}
+//ext {
+//    PUBLISH_GROUP_ID = 'com.ycdyng.android'
+//    PUBLISH_ARTIFACT_ID = 'base-recycler-adapter-helper'
+//    PUBLISH_VERSION = '1.0.0'
+//}
 
 android {
     compileSdkVersion 25
@@ -26,9 +26,8 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:25.0.1'
     compile 'com.android.support:recyclerview-v7:25.0.1'
 }
 
 // or use the remote copy to keep update with latest changes
-apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'
+//apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'
